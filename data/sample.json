@@ -1,0 +1,21 @@
+[
+    {
+        "id": "u_001",
+        "email": "anna@example.com",
+        "consent": true
+    },
+    {
+        "id": "u_002",
+        "email": "marek@example.com",
+        "consent": false
+    },
+    {
+        "id": "u_003",
+        "email": "kasia@",
+        "consent": true
+    },
+    {
+        "id": "u_004",
+        "consent": true
+    }
+]
